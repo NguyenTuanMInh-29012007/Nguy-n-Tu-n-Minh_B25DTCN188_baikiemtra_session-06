@@ -1,0 +1,51 @@
+.container {
+    background-color: #3e2200;
+    font-family:cursive;
+}
+
+header {
+    text-align: center;
+    background-color: #786102;
+    color:#bd4b31;
+}
+
+.title {
+    text-align: center;
+    background-color: #bd4b31;
+    padding: 5px;
+}
+
+.item {
+    font-family: cursive;
+    background-color:#bd4b31;
+    color:#3e2200;
+    border: none;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;;
+}
+
+.item:hover {
+    background-color:#3e2200;
+    color: white;
+    cursor: pointer;
+}
+
+img {
+    padding: 20px;
+}
+
+.class {
+    color:#bd4b31;
+}
+
+.item-1 {
+    background-color: #181a1b;
+}
+
+footer {
+    text-align: center;
+    background-color:#602a0c;
+    color:#bd4b31;
+    margin: 5px;
+}
